@@ -9,5 +9,5 @@ Convert number to enum
 This crate provides a derive macro to generate a function for converting a
 primitive integer into the corresponding variant of an enum.
 
-The generated function is named `n` and has the following signature:
+
 
